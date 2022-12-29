@@ -9,5 +9,5 @@ The 'Alura Repository' simulates a game registration system.
 To run this project on your machine, please type:
 
 ```
-npm install react
+node app.js
 ```
