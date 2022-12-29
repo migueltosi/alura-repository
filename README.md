@@ -1,5 +1,5 @@
-<h1> Alura Repository is a project for me to train Git and Github practices</h1>
-The 'Alura Repository' simulates a game registration system.
+<h1>'Alura Repository' simulates a game registration system</h1>
+The Alura Repository is a project for me to train Git and Github practices, based on an Alura Online course.
 <hr>
 
 # Game Registration System
