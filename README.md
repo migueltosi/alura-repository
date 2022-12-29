@@ -7,6 +7,7 @@ The 'Alura Repository' simulates a game registration system.
 > Project Status: Under development
 
 To run this project on your machine, please type:
-...
-npm install
-...
+
+```
+npm install react
+```
